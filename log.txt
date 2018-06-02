@@ -1,0 +1,32 @@
+=============== LOG ENTRY BEGIN ===============
+Thu Apr 05 2018 20:13:23 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/9.3.0_1/bin/node,/Users/Shelby/webDevCode/liri-node-app/liri.js,movie-this,Finding,Nemo
+DATA OUTPUT:
+Title: Finding Nemo
+Year: 2003
+IMDb Rating: 8.1
+Country: USA
+Language: English
+Plot: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+Actors: Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/finding_nemo/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Apr 05 2018 20:13:55 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/9.3.0_1/bin/node,/Users/Shelby/webDevCode/liri-node-app/liri.js,movie-this
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
